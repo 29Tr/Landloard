@@ -1,0 +1,2 @@
+E:\unityExample\Fight the Landloard_one\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+E:\unityExample\Fight the Landloard_one\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
